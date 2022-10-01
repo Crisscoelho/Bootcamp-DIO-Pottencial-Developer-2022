@@ -1,0 +1,15 @@
+C:\Users\criss\Arquivos GITHUB\Bootcamp DIO Pottencial Net Developer\Construindo\Construindo\bin\Debug\net6.0\DesafioProjetoHospedagem.exe
+C:\Users\criss\Arquivos GITHUB\Bootcamp DIO Pottencial Net Developer\Construindo\Construindo\bin\Debug\net6.0\DesafioProjetoHospedagem.deps.json
+C:\Users\criss\Arquivos GITHUB\Bootcamp DIO Pottencial Net Developer\Construindo\Construindo\bin\Debug\net6.0\DesafioProjetoHospedagem.runtimeconfig.json
+C:\Users\criss\Arquivos GITHUB\Bootcamp DIO Pottencial Net Developer\Construindo\Construindo\bin\Debug\net6.0\DesafioProjetoHospedagem.dll
+C:\Users\criss\Arquivos GITHUB\Bootcamp DIO Pottencial Net Developer\Construindo\Construindo\bin\Debug\net6.0\DesafioProjetoHospedagem.pdb
+C:\Users\criss\Arquivos GITHUB\Bootcamp DIO Pottencial Net Developer\Construindo\Construindo\obj\Debug\net6.0\DesafioProjetoHospedagem.csproj.AssemblyReference.cache
+C:\Users\criss\Arquivos GITHUB\Bootcamp DIO Pottencial Net Developer\Construindo\Construindo\obj\Debug\net6.0\DesafioProjetoHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\criss\Arquivos GITHUB\Bootcamp DIO Pottencial Net Developer\Construindo\Construindo\obj\Debug\net6.0\DesafioProjetoHospedagem.AssemblyInfoInputs.cache
+C:\Users\criss\Arquivos GITHUB\Bootcamp DIO Pottencial Net Developer\Construindo\Construindo\obj\Debug\net6.0\DesafioProjetoHospedagem.AssemblyInfo.cs
+C:\Users\criss\Arquivos GITHUB\Bootcamp DIO Pottencial Net Developer\Construindo\Construindo\obj\Debug\net6.0\DesafioProjetoHospedagem.csproj.CoreCompileInputs.cache
+C:\Users\criss\Arquivos GITHUB\Bootcamp DIO Pottencial Net Developer\Construindo\Construindo\obj\Debug\net6.0\DesafioProjetoHospedagem.dll
+C:\Users\criss\Arquivos GITHUB\Bootcamp DIO Pottencial Net Developer\Construindo\Construindo\obj\Debug\net6.0\refint\DesafioProjetoHospedagem.dll
+C:\Users\criss\Arquivos GITHUB\Bootcamp DIO Pottencial Net Developer\Construindo\Construindo\obj\Debug\net6.0\DesafioProjetoHospedagem.pdb
+C:\Users\criss\Arquivos GITHUB\Bootcamp DIO Pottencial Net Developer\Construindo\Construindo\obj\Debug\net6.0\DesafioProjetoHospedagem.genruntimeconfig.cache
+C:\Users\criss\Arquivos GITHUB\Bootcamp DIO Pottencial Net Developer\Construindo\Construindo\obj\Debug\net6.0\ref\DesafioProjetoHospedagem.dll
